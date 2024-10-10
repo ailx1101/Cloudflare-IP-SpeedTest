@@ -1,16 +1,16 @@
-IPÂú∞ÂùÄ,Á´ØÂè£,TLS,Êï∞ÊçÆ‰∏≠ÂøÉ,Âú∞Âå∫,ÂüéÂ∏Ç,ÁΩëÁªúÂª∂Ëøü,‰∏ãËΩΩÈÄüÂ∫¶
-152.67.212.141,443,true,ICN,Asia Pacific,Seoul,104 ms,17962 kB/s
-141.147.30.35,443,true,FRA,Europe,Frankfurt,193 ms,9626 kB/s
-150.230.122.76,443,true,LHR,Europe,London,182 ms,9061 kB/s
-150.230.34.116,443,true,SJC,North America,San Jose,276 ms,8046 kB/s
-152.70.235.207,443,true,ICN,Asia Pacific,Seoul,53 ms,5977 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,121 ms,4472 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,239 ms,4110 kB/s
-152.70.50.241,443,true,FRA,Europe,Frankfurt,261 ms,3930 kB/s
-158.101.15.48,443,true,LAX,North America,Los Angeles,288 ms,1553 kB/s
-146.56.118.213,443,true,ICN,Asia Pacific,Seoul,108 ms,1368 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,185 ms,0 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,199 ms,0 kB/s
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,263 ms,0 kB/s
-158.101.148.105,443,true,NRT,Asia Pacific,Tokyo,192 ms,0 kB/s
-150.136.121.64,443,true,IAD,North America,Ashburn,225 ms,0 kB/s
+IP_∞Â_,Á´_,TLS,_∞Ê_‰∏_,_∞Â_,___,ÁΩ__Âª∂Ë_,‰∏_ΩΩ__∫¶
+152.67.212.141,443,TRUE,ICN,Asia Pacific,Seoul,104 ms,17962 kB/s
+141.147.30.35,443,TRUE,FRA,Europe,Frankfurt,193 ms,9626 kB/s
+150.230.122.76,443,TRUE,LHR,Europe,London,182 ms,9061 kB/s
+150.230.34.116,443,TRUE,SJC,North America,San Jose,276 ms,8046 kB/s
+152.70.235.207,443,TRUE,ICN,Asia Pacific,Seoul,53 ms,5977 kB/s
+146.56.101.141,443,TRUE,ICN,Asia Pacific,Seoul,121 ms,4472 kB/s
+140.238.158.238,443,TRUE,YYZ,North America,Toronto,239 ms,4110 kB/s
+152.70.50.241,443,TRUE,FRA,Europe,Frankfurt,261 ms,3930 kB/s
+158.101.15.48,443,TRUE,LAX,North America,Los Angeles,288 ms,1553 kB/s
+146.56.118.213,443,TRUE,ICN,Asia Pacific,Seoul,108 ms,1368 kB/s
+152.70.166.114,443,TRUE,FRA,Europe,Frankfurt,185 ms,0 kB/s
+152.69.219.32,443,TRUE,SIN,Asia Pacific,Singapore,199 ms,0 kB/s
+152.67.190.105,443,TRUE,HYD,Asia Pacific,Hyderabad,263 ms,0 kB/s
+158.101.148.105,443,TRUE,NRT,Asia Pacific,Tokyo,192 ms,0 kB/s
+150.136.121.64,443,TRUE,IAD,North America,Ashburn,225 ms,1 kB/s
