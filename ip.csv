@@ -1,17 +1,18 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-152.67.212.141,443,true,ICN,Asia Pacific,Seoul,87 ms,20226 kB/s
-152.70.39.86,443,true,ICN,Asia Pacific,Seoul,57 ms,10794 kB/s
-141.144.255.170,443,true,FRA,Europe,Frankfurt,190 ms,8376 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,80 ms,5310 kB/s
-141.144.195.244,443,true,FRA,Europe,Frankfurt,257 ms,3904 kB/s
-144.24.169.91,443,true,FRA,Europe,Frankfurt,230 ms,3729 kB/s
-150.230.34.116,443,true,SJC,North America,San Jose,198 ms,3512 kB/s
-141.147.75.84,443,true,FRA,Europe,Frankfurt,298 ms,3366 kB/s
-158.101.203.127,443,true,FRA,Europe,Frankfurt,206 ms,3033 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,214 ms,1850 kB/s
-158.101.192.242,443,true,FRA,Europe,Frankfurt,265 ms,1363 kB/s
-158.101.15.48,443,true,LAX,North America,Los Angeles,190 ms,671 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,189 ms,0 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,86 ms,0 kB/s
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,216 ms,0 kB/s
-150.136.121.64,443,true,IAD,North America,Ashburn,253 ms,0 kB/s
+152.67.212.141,443,true,ICN,Asia Pacific,Seoul,66 ms,15928 kB/s
+158.101.71.60,443,true,NRT,Asia Pacific,Tokyo,161 ms,8008 kB/s
+150.230.34.116,443,true,SJC,North America,San Jose,194 ms,6664 kB/s
+141.147.75.84,443,true,FRA,Europe,Frankfurt,285 ms,5336 kB/s
+141.144.240.218,443,true,FRA,Europe,Frankfurt,214 ms,4823 kB/s
+158.101.192.242,443,true,FRA,Europe,Frankfurt,211 ms,4705 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,73 ms,4623 kB/s
+150.230.113.219,443,true,FRA,Europe,Frankfurt,258 ms,4477 kB/s
+141.144.255.170,443,true,FRA,Europe,Frankfurt,195 ms,4057 kB/s
+144.24.169.91,443,true,FRA,Europe,Frankfurt,197 ms,2954 kB/s
+158.101.203.127,443,true,FRA,Europe,Frankfurt,251 ms,2216 kB/s
+152.70.39.86,443,true,ICN,Asia Pacific,Seoul,48 ms,272 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,187 ms,0 kB/s
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,209 ms,0 kB/s
+152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,204 ms,0 kB/s
+140.238.33.161,443,true,NRT,Asia Pacific,Tokyo,166 ms,0 kB/s
+150.136.121.64,443,true,IAD,North America,Ashburn,223 ms,0 kB/s
