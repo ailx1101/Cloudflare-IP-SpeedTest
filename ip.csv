@@ -1,19 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-152.70.39.86,443,true,ICN,Asia Pacific,Seoul,59 ms,20455 kB/s
-141.144.255.170,443,true,FRA,Europe,Frankfurt,186 ms,8052 kB/s
-150.230.34.116,443,true,SJC,North America,San Jose,196 ms,5468 kB/s
-152.67.212.141,443,true,ICN,Asia Pacific,Seoul,118 ms,4316 kB/s
-158.101.192.242,443,true,FRA,Europe,Frankfurt,226 ms,3766 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,115 ms,3604 kB/s
-141.147.101.150,443,true,FRA,Europe,Frankfurt,257 ms,3537 kB/s
-158.101.203.127,443,true,FRA,Europe,Frankfurt,262 ms,3508 kB/s
-141.144.240.218,443,true,FRA,Europe,Frankfurt,247 ms,3306 kB/s
-144.24.169.91,443,true,FRA,Europe,Frankfurt,262 ms,2918 kB/s
-141.144.195.244,443,true,FRA,Europe,Frankfurt,266 ms,2588 kB/s
-141.147.97.106,443,true,FRA,Europe,Frankfurt,231 ms,2088 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,191 ms,0 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,200 ms,0 kB/s
-158.101.15.48,443,true,LAX,North America,Los Angeles,190 ms,0 kB/s
-158.101.148.105,443,true,NRT,Asia Pacific,Tokyo,217 ms,0 kB/s
-150.230.122.76,443,true,LHR,Europe,London,178 ms,0 kB/s
-141.147.75.84,443,true,FRA,Europe,Frankfurt,277 ms,0 kB/s
+150.230.122.76,443,true,LHR,Europe,London,198 ms,8579 kB/s
+152.67.212.141,443,true,ICN,Asia Pacific,Seoul,114 ms,2184 kB/s
+141.147.75.84,443,true,FRA,Europe,Frankfurt,275 ms,1867 kB/s
+158.101.203.127,443,true,FRA,Europe,Frankfurt,266 ms,880 kB/s
+141.144.195.244,443,true,FRA,Europe,Frankfurt,265 ms,697 kB/s
+158.101.192.242,443,true,FRA,Europe,Frankfurt,282 ms,650 kB/s
+144.24.169.91,443,true,FRA,Europe,Frankfurt,260 ms,586 kB/s
+141.147.97.106,443,true,FRA,Europe,Frankfurt,287 ms,359 kB/s
+158.101.15.48,443,true,LAX,North America,Los Angeles,212 ms,286 kB/s
+141.144.240.218,443,true,FRA,Europe,Frankfurt,267 ms,265 kB/s
+141.144.255.170,443,true,FRA,Europe,Frankfurt,200 ms,191 kB/s
+158.101.71.60,443,true,NRT,Asia Pacific,Tokyo,221 ms,53 kB/s
+152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,214 ms,0 kB/s
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,246 ms,0 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,124 ms,0 kB/s
