@@ -1,19 +1,23 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-152.67.212.141,443,true,ICN,Asia Pacific,Seoul,71 ms,18329 kB/s
-141.147.36.182,443,true,SIN,Asia Pacific,Singapore,157 ms,9199 kB/s
-141.147.107.50,443,true,FRA,Europe,Frankfurt,195 ms,8395 kB/s
-141.147.78.164,443,true,FRA,Europe,Frankfurt,220 ms,6536 kB/s
-141.147.105.158,443,true,FRA,Europe,Frankfurt,193 ms,6452 kB/s
-158.178.145.254,443,true,FRA,Europe,Frankfurt,205 ms,5356 kB/s
-144.21.40.109,443,true,FRA,Europe,Frankfurt,192 ms,5129 kB/s
-158.101.148.105,443,true,NRT,Asia Pacific,Tokyo,159 ms,5127 kB/s
-152.70.39.86,443,true,ICN,Asia Pacific,Seoul,49 ms,4576 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,73 ms,4277 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,254 ms,4122 kB/s
-150.230.213.35,443,true,SIN,Asia Pacific,Singapore,225 ms,3057 kB/s
-158.101.86.146,443,true,SIN,Asia Pacific,Singapore,231 ms,2265 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,192 ms,0 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,82 ms,0 kB/s
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,214 ms,0 kB/s
-150.230.34.116,443,true,SJC,North America,San Jose,193 ms,0 kB/s
-146.56.100.238,443,true,SIN,Asia Pacific,Singapore,129 ms,0 kB/s
+141.147.105.158,443,true,FRA,Europe,Frankfurt,192 ms,7415 kB/s
+152.67.212.141,443,true,ICN,Asia Pacific,Seoul,118 ms,6451 kB/s
+150.230.34.116,443,true,SJC,North America,San Jose,211 ms,6346 kB/s
+158.178.145.254,443,true,FRA,Europe,Frankfurt,197 ms,5914 kB/s
+150.230.213.35,443,true,SIN,Asia Pacific,Singapore,275 ms,5544 kB/s
+141.147.36.182,443,true,FRA,Europe,Frankfurt,221 ms,5266 kB/s
+158.101.86.146,443,true,SIN,Asia Pacific,Singapore,240 ms,5169 kB/s
+141.147.78.164,443,true,FRA,Europe,Frankfurt,230 ms,5144 kB/s
+144.21.51.184,443,true,FRA,Europe,Frankfurt,203 ms,5106 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,102 ms,3842 kB/s
+141.147.107.50,443,true,FRA,Europe,Frankfurt,274 ms,3810 kB/s
+152.70.71.23,443,true,AMS,Europe,Amsterdam,207 ms,3638 kB/s
+144.21.40.109,443,true,FRA,Europe,Frankfurt,218 ms,3496 kB/s
+140.238.158.238,443,true,YYZ,North America,Toronto,218 ms,3090 kB/s
+140.238.33.161,443,true,NRT,Asia Pacific,Tokyo,216 ms,2370 kB/s
+158.101.148.105,443,true,NRT,Asia Pacific,Tokyo,203 ms,1204 kB/s
+152.70.39.86,443,true,ICN,Asia Pacific,Seoul,55 ms,155 kB/s
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,180 ms,1 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,190 ms,0 kB/s
+152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,216 ms,0 kB/s
+158.101.71.60,443,true,NRT,Asia Pacific,Tokyo,204 ms,0 kB/s
+152.70.249.67,443,true,ICN,Asia Pacific,Seoul,63 ms,0 kB/s
