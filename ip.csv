@@ -1,23 +1,26 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-150.230.34.116,443,true,SJC,North America,San Jose,193 ms,7157 kB/s
-158.101.203.244,443,true,MUC,Europe,Munich,215 ms,6333 kB/s
-141.147.109.180,443,true,FRA,Europe,Frankfurt,200 ms,5002 kB/s
-152.70.53.206,443,true,FRA,Europe,Frankfurt,193 ms,4873 kB/s
-140.238.120.210,443,true,FRA,Europe,Frankfurt,224 ms,4641 kB/s
-150.136.121.64,443,true,IAD,North America,Ashburn,262 ms,3762 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,243 ms,3598 kB/s
-152.69.162.101,443,true,SYD,Oceania,Sydney,333 ms,3197 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,152 ms,1667 kB/s
-152.70.235.207,443,true,ICN,Asia Pacific,Seoul,155 ms,975 kB/s
-141.144.205.14,443,true,FRA,Europe,Frankfurt,275 ms,446 kB/s
-158.101.220.20,443,true,FRA,Europe,Frankfurt,264 ms,424 kB/s
-141.144.198.236,443,true,FRA,Europe,Frankfurt,263 ms,344 kB/s
-150.230.120.211,443,true,FRA,Europe,Frankfurt,281 ms,326 kB/s
-152.70.61.105,443,true,FRA,Europe,Frankfurt,281 ms,212 kB/s
-158.101.148.105,443,true,NRT,Asia Pacific,Tokyo,212 ms,208 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,189 ms,0 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,344 ms,0 kB/s
-146.56.106.7,443,true,SIN,Asia Pacific,Singapore,119 ms,0 kB/s
-150.230.122.76,443,true,LHR,Europe,London,209 ms,0 kB/s
-150.230.113.219,443,true,FRA,Europe,Frankfurt,269 ms,0 kB/s
-140.238.33.161,443,true,NRT,Asia Pacific,Tokyo,219 ms,0 kB/s
+146.56.106.7,443,true,SIN,Asia Pacific,Singapore,111 ms,9795 kB/s
+150.230.122.76,443,true,LHR,Europe,London,183 ms,9456 kB/s
+150.230.34.116,443,true,SJC,North America,San Jose,197 ms,6854 kB/s
+158.101.203.244,443,true,MUC,Europe,Munich,197 ms,6380 kB/s
+141.147.109.180,443,true,FRA,Europe,Frankfurt,200 ms,6150 kB/s
+140.238.120.210,443,true,FRA,Europe,Frankfurt,208 ms,5899 kB/s
+152.69.162.101,443,true,SYD,Oceania,Sydney,236 ms,5388 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,78 ms,5377 kB/s
+152.70.53.206,443,true,FRA,Europe,Frankfurt,195 ms,5366 kB/s
+141.144.198.236,443,true,FRA,Europe,Frankfurt,228 ms,5317 kB/s
+141.144.205.14,443,true,FRA,Europe,Frankfurt,256 ms,5222 kB/s
+158.101.220.20,443,true,FRA,Europe,Frankfurt,205 ms,4796 kB/s
+158.101.148.105,443,true,NRT,Asia Pacific,Tokyo,173 ms,4746 kB/s
+152.70.61.105,443,true,FRA,Europe,Frankfurt,206 ms,4290 kB/s
+150.230.117.214,443,true,FRA,Europe,Frankfurt,258 ms,4017 kB/s
+140.238.158.238,443,true,YYZ,North America,Toronto,235 ms,3537 kB/s
+150.230.113.219,443,true,FRA,Europe,Frankfurt,277 ms,3481 kB/s
+152.70.71.23,443,true,CDG,Europe,Paris,205 ms,2412 kB/s
+150.230.120.211,443,true,FRA,Europe,Frankfurt,274 ms,2028 kB/s
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,80 ms,1 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,193 ms,0 kB/s
+152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,205 ms,0 kB/s
+150.136.121.64,443,true,IAD,North America,Ashburn,241 ms,0 kB/s
+152.70.249.67,443,true,ICN,Asia Pacific,Seoul,56 ms,0 kB/s
+140.238.33.161,443,true,NRT,Asia Pacific,Tokyo,164 ms,0 kB/s
