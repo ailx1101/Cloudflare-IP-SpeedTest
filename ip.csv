@@ -1,22 +1,19 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-152.70.59.219,443,true,MUC,Europe,Munich,193 ms,9073 kB/s
-150.230.120.76,443,true,FRA,Europe,Frankfurt,196 ms,8439 kB/s
-150.230.34.116,443,true,SJC,North America,San Jose,198 ms,8022 kB/s
-152.70.53.206,443,true,FRA,Europe,Frankfurt,206 ms,7463 kB/s
-141.147.109.180,443,true,FRA,Europe,Frankfurt,206 ms,6268 kB/s
-152.69.162.101,443,true,SYD,Oceania,Sydney,249 ms,5192 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,126 ms,4105 kB/s
-143.47.245.203,443,true,FRA,Europe,Frankfurt,260 ms,2955 kB/s
-144.21.38.104,443,true,ATL,North America,Atlanta,265 ms,2406 kB/s
-158.101.15.48,443,true,LAX,North America,Los Angeles,198 ms,2300 kB/s
-150.230.120.211,443,true,FRA,Europe,Frankfurt,295 ms,1633 kB/s
-152.70.61.105,443,true,FRA,Europe,Frankfurt,258 ms,1417 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,262 ms,937 kB/s
-158.101.220.20,443,true,FRA,Europe,Frankfurt,232 ms,844 kB/s
-140.238.33.161,443,true,NRT,Asia Pacific,Tokyo,211 ms,687 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,199 ms,0 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,334 ms,0 kB/s
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,201 ms,0 kB/s
-152.70.71.23,443,true,MRS,Europe,Marseille,210 ms,0 kB/s
-158.101.148.105,443,true,NRT,Asia Pacific,Tokyo,218 ms,0 kB/s
-140.238.120.210,443,true,FRA,Europe,Frankfurt,193 ms,0 kB/s
+152.70.59.219,443,true,FRA,Europe,Frankfurt,196 ms,8836 kB/s
+150.230.120.76,443,true,FRA,Europe,Frankfurt,196 ms,8457 kB/s
+152.70.53.206,443,true,FRA,Europe,Frankfurt,202 ms,7776 kB/s
+152.70.71.23,443,true,MRS,Europe,Marseille,204 ms,3965 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,123 ms,3654 kB/s
+152.70.61.105,443,true,FRA,Europe,Frankfurt,286 ms,3620 kB/s
+143.47.245.203,443,true,FRA,Europe,Frankfurt,277 ms,3093 kB/s
+158.101.220.20,443,true,FRA,Europe,Frankfurt,264 ms,2548 kB/s
+152.70.61.48,443,true,FRA,Europe,Frankfurt,253 ms,2399 kB/s
+150.230.120.211,443,true,FRA,Europe,Frankfurt,293 ms,2208 kB/s
+158.101.203.127,443,true,DUS,Europe,Düsseldorf,246 ms,1828 kB/s
+144.21.38.104,443,true,FRA,Europe,Frankfurt,267 ms,1747 kB/s
+140.238.33.161,443,true,NRT,Asia Pacific,Tokyo,212 ms,539 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,182 ms,0 kB/s
+152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,214 ms,0 kB/s
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,320 ms,0 kB/s
+150.230.122.76,443,true,LHR,Europe,London,188 ms,0 kB/s
+158.101.148.105,443,true,NRT,Asia Pacific,Tokyo,211 ms,0 kB/s
