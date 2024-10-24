@@ -1,19 +1,18 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-141.144.205.57,443,true,FRA,Europe,Frankfurt,198 ms,8618 kB/s
-150.230.20.198,443,true,DFW,North America,Dallas,194 ms,7622 kB/s
-150.230.122.76,443,true,LHR,Europe,London,180 ms,7119 kB/s
-152.70.59.219,443,true,SEA,North America,Seattle,193 ms,6627 kB/s
-150.230.120.76,443,true,FRA,Europe,Frankfurt,226 ms,5691 kB/s
-152.70.61.48,443,true,DFW,North America,Dallas,245 ms,1891 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,128 ms,1295 kB/s
-158.101.220.20,443,true,FRA,Europe,Frankfurt,272 ms,972 kB/s
-141.147.106.173,443,true,FRA,Europe,Frankfurt,278 ms,447 kB/s
-152.70.57.114,443,true,FRA,Europe,Frankfurt,268 ms,391 kB/s
-141.147.89.113,443,true,FRA,Europe,Frankfurt,272 ms,39 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,179 ms,0 kB/s
+152.70.59.219,443,true,FRA,Europe,Frankfurt,212 ms,7486 kB/s
+150.230.20.198,443,true,FRA,Europe,Frankfurt,203 ms,7444 kB/s
+141.144.205.57,443,true,FRA,Europe,Frankfurt,203 ms,6216 kB/s
+150.230.120.76,443,true,FRA,Europe,Frankfurt,223 ms,5730 kB/s
+152.69.162.101,443,true,SYD,Oceania,Sydney,277 ms,833 kB/s
+158.101.220.20,443,true,FRA,Europe,Frankfurt,275 ms,770 kB/s
+158.101.203.127,443,true,ORD,North America,Chicago,272 ms,702 kB/s
+152.70.57.114,443,true,FRA,Europe,Frankfurt,271 ms,685 kB/s
+141.147.106.173,443,true,FRA,Europe,Frankfurt,276 ms,543 kB/s
+141.147.89.113,443,true,FRA,Europe,Frankfurt,276 ms,506 kB/s
+158.101.148.105,443,true,NRT,Asia Pacific,Tokyo,216 ms,245 kB/s
+150.136.121.64,443,true,IAD,North America,Ashburn,379 ms,50 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,189 ms,0 kB/s
+152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,217 ms,0 kB/s
 152.69.219.32,443,true,SIN,Asia Pacific,Singapore,331 ms,0 kB/s
-152.69.162.101,443,true,SYD,Oceania,Sydney,273 ms,0 kB/s
-140.238.33.161,443,true,NRT,Asia Pacific,Tokyo,210 ms,0 kB/s
-143.47.245.203,443,true,FRA,Europe,Frankfurt,296 ms,0 kB/s
-152.70.249.67,443,true,ICN,Asia Pacific,Seoul,61 ms,0 kB/s
-150.136.121.64,443,true,IAD,North America,Ashburn,246 ms,0 kB/s
+141.147.73.148,443,true,LHR,Europe,London,184 ms,0 kB/s
+152.70.235.207,443,true,ICN,Asia Pacific,Seoul,91 ms,0 kB/s
