@@ -1,20 +1,21 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-152.70.186.254,443,true,FRA,Europe,Frankfurt,189 ms,8793 kB/s
-140.238.94.32,443,true,FRA,Europe,Frankfurt,203 ms,8628 kB/s
-152.67.146.214,443,true,FRA,Europe,Frankfurt,201 ms,8525 kB/s
-152.69.162.101,443,true,SYD,Oceania,Sydney,233 ms,8122 kB/s
-143.47.253.69,443,true,FRA,Europe,Frankfurt,206 ms,7687 kB/s
-144.21.36.199,443,true,FRA,Europe,Frankfurt,243 ms,4469 kB/s
-141.144.233.241,443,true,FRA,Europe,Frankfurt,269 ms,3431 kB/s
-150.230.122.242,443,true,FRA,Europe,Frankfurt,288 ms,3256 kB/s
-152.70.63.148,443,true,FRA,Europe,Frankfurt,285 ms,3059 kB/s
-141.147.101.146,443,true,FRA,Europe,Frankfurt,280 ms,2887 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,120 ms,1839 kB/s
-158.101.148.105,443,true,NRT,Asia Pacific,Tokyo,209 ms,1823 kB/s
-158.101.15.48,443,true,LAX,North America,Los Angeles,248 ms,156 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,188 ms,0 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,325 ms,0 kB/s
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,218 ms,0 kB/s
-150.230.122.76,443,true,LHR,Europe,London,213 ms,0 kB/s
-152.70.249.67,443,true,ICN,Asia Pacific,Seoul,58 ms,0 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,242 ms,0 kB/s
+152.69.162.101,443,true,SYD,Oceania,Sydney,173 ms,9319 kB/s
+140.238.33.161,443,true,NRT,Asia Pacific,Tokyo,165 ms,8922 kB/s
+152.67.146.214,443,true,FRA,Europe,Frankfurt,198 ms,7761 kB/s
+140.238.94.32,443,true,FRA,Europe,Frankfurt,209 ms,7036 kB/s
+150.230.34.116,443,true,SJC,North America,San Jose,195 ms,6905 kB/s
+143.47.253.69,443,true,MUC,Europe,Munich,198 ms,6307 kB/s
+141.144.233.241,443,true,FRA,Europe,Frankfurt,232 ms,4285 kB/s
+152.70.63.148,443,true,FRA,Europe,Frankfurt,257 ms,4197 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,68 ms,4163 kB/s
+144.21.36.199,443,true,FRA,Europe,Frankfurt,225 ms,4121 kB/s
+143.47.230.189,443,true,FRA,Europe,Frankfurt,223 ms,3786 kB/s
+150.136.121.64,443,true,IAD,North America,Ashburn,255 ms,3647 kB/s
+141.147.101.146,443,true,CDG,Europe,Paris,263 ms,3601 kB/s
+150.230.122.242,443,true,FRA,Europe,Frankfurt,249 ms,3447 kB/s
+152.70.235.207,443,true,ICN,Asia Pacific,Seoul,65 ms,58 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,177 ms,0 kB/s
+152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,212 ms,0 kB/s
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,81 ms,0 kB/s
+158.101.148.105,443,true,NRT,Asia Pacific,Tokyo,168 ms,0 kB/s
+158.101.15.48,443,true,LAX,North America,Los Angeles,213 ms,0 kB/s
