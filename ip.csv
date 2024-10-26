@@ -1,18 +1,17 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-141.147.65.233,443,true,CDG,Europe,Paris,208 ms,8013 kB/s
-141.147.105.120,443,true,FRA,Europe,Frankfurt,207 ms,7752 kB/s
-143.47.247.110,443,true,FRA,Europe,Frankfurt,199 ms,7647 kB/s
-141.147.113.152,443,true,FRA,Europe,Frankfurt,208 ms,7269 kB/s
-144.21.59.65,443,true,FRA,Europe,Frankfurt,203 ms,5861 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,120 ms,2791 kB/s
-158.101.15.48,443,true,LAX,North America,Los Angeles,188 ms,2699 kB/s
-158.101.192.135,443,true,FRA,Europe,Frankfurt,261 ms,2255 kB/s
-144.21.36.199,443,true,FRA,Europe,Frankfurt,279 ms,2095 kB/s
-150.230.22.226,443,true,CDG,Europe,Paris,254 ms,2058 kB/s
-150.230.115.217,443,true,FRA,Europe,Frankfurt,249 ms,1853 kB/s
-144.21.53.11,443,true,FRA,Europe,Frankfurt,275 ms,1151 kB/s
-152.70.249.67,443,true,ICN,Asia Pacific,Seoul,90 ms,836 kB/s
-152.69.162.101,443,true,SYD,Oceania,Sydney,272 ms,96 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,192 ms,0 kB/s
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,343 ms,0 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,335 ms,0 kB/s
+141.147.113.152,443,true,FRA,Europe,Frankfurt,210 ms,5236 kB/s
+141.147.105.120,443,true,YYZ,North America,Toronto,219 ms,4922 kB/s
+141.147.65.233,443,true,CDG,Europe,Paris,220 ms,4525 kB/s
+143.47.247.110,443,true,CDG,Europe,Paris,209 ms,3109 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,122 ms,2262 kB/s
+144.21.53.11,443,true,FRA,Europe,Frankfurt,282 ms,1313 kB/s
+158.101.192.135,443,true,FRA,Europe,Frankfurt,283 ms,959 kB/s
+150.230.22.226,443,true,CDG,Europe,Paris,312 ms,722 kB/s
+150.230.115.217,443,true,FRA,Europe,Frankfurt,283 ms,646 kB/s
+152.69.162.101,443,true,SYD,Oceania,Sydney,297 ms,485 kB/s
+152.67.140.168,443,true,FRA,Europe,Frankfurt,287 ms,432 kB/s
+152.70.71.23,443,true,MRS,Europe,Marseille,207 ms,170 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,200 ms,0 kB/s
+152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,208 ms,0 kB/s
+150.136.121.64,443,true,IAD,North America,Ashburn,231 ms,0 kB/s
+158.101.15.48,443,true,LAX,North America,Los Angeles,211 ms,0 kB/s
