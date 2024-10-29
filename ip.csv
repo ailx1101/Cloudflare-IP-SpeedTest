@@ -1,15 +1,18 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-152.70.235.207,443,true,ICN,Asia Pacific,Seoul,118 ms,3459 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,125 ms,1991 kB/s
-152.70.182.149,443,true,FRA,Europe,Frankfurt,257 ms,1784 kB/s
-141.147.79.12,443,true,FRA,Europe,Frankfurt,281 ms,1246 kB/s
-141.147.113.144,443,true,FRA,Europe,Frankfurt,277 ms,782 kB/s
-152.70.71.23,443,true,MRS,Europe,Marseille,251 ms,102 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,198 ms,0 kB/s
-144.21.50.59,443,true,FRA,Europe,Frankfurt,200 ms,0 kB/s
-141.147.116.4,443,true,FRA,Europe,Frankfurt,277 ms,0 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,269 ms,0 kB/s
-140.238.33.161,443,true,NRT,Asia Pacific,Tokyo,214 ms,0 kB/s
-141.144.202.78,443,true,FRA,Europe,Frankfurt,267 ms,0 kB/s
-150.230.118.111,443,true,FRA,Europe,Frankfurt,298 ms,0 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,342 ms,0 kB/s
+150.230.34.116,443,true,SJC,North America,San Jose,203 ms,8896 kB/s
+152.69.162.101,443,true,SYD,Oceania,Sydney,282 ms,4753 kB/s
+144.21.56.38,443,true,FRA,Europe,Frankfurt,231 ms,4458 kB/s
+144.21.50.59,443,true,FRA,Europe,Frankfurt,209 ms,4061 kB/s
+152.70.235.207,443,true,ICN,Asia Pacific,Seoul,156 ms,2770 kB/s
+141.147.60.58,443,true,FRA,Europe,Frankfurt,256 ms,995 kB/s
+141.144.202.78,443,true,FRA,Europe,Frankfurt,255 ms,961 kB/s
+150.230.118.111,443,true,FRA,Europe,Frankfurt,288 ms,822 kB/s
+141.147.113.144,443,true,FRA,Europe,Frankfurt,283 ms,734 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,177 ms,694 kB/s
+141.147.79.12,443,true,CDG,Europe,Paris,207 ms,309 kB/s
+141.147.116.4,443,true,FRA,Europe,Frankfurt,284 ms,115 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,192 ms,0 kB/s
+152.70.249.67,443,true,ICN,Asia Pacific,Seoul,61 ms,0 kB/s
+150.230.122.76,443,true,LHR,Europe,London,197 ms,0 kB/s
+158.101.15.48,443,true,LAX,North America,Los Angeles,205 ms,0 kB/s
+152.70.182.149,443,true,FRA,Europe,Frankfurt,269 ms,0 kB/s
