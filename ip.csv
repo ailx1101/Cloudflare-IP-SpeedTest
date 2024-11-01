@@ -1,16 +1,18 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-150.230.34.116,443,true,SJC,North America,San Jose,198 ms,8499 kB/s
-152.69.162.101,443,true,SYD,Oceania,Sydney,178 ms,7697 kB/s
-141.147.57.71,443,true,FRA,Europe,Frankfurt,194 ms,7174 kB/s
-146.56.104.16,443,true,SIN,Asia Pacific,Singapore,150 ms,6001 kB/s
-144.21.38.38,443,true,FRA,Europe,Frankfurt,202 ms,5660 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,121 ms,4601 kB/s
-141.147.159.250,443,true,KIX,Asia Pacific,Osaka,320 ms,3556 kB/s
-141.144.207.205,443,true,FRA,Europe,Frankfurt,203 ms,1875 kB/s
-152.67.137.138,443,true,FRA,Europe,Frankfurt,295 ms,1856 kB/s
-143.47.233.102,443,true,FRA,Europe,Frankfurt,285 ms,1823 kB/s
-141.144.203.137,443,true,FRA,Europe,Frankfurt,268 ms,867 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,228 ms,0 kB/s
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,210 ms,0 kB/s
-141.147.73.148,443,true,LHR,Europe,London,187 ms,0 kB/s
-150.230.122.76,443,true,LHR,Europe,London,214 ms,0 kB/s
+146.56.104.16,443,true,SIN,Asia Pacific,Singapore,126 ms,9087 kB/s
+152.69.162.101,443,true,SYD,Oceania,Sydney,175 ms,7187 kB/s
+144.21.38.38,443,true,FRA,Europe,Frankfurt,196 ms,7165 kB/s
+143.47.179.100,443,true,FRA,Europe,Frankfurt,281 ms,7162 kB/s
+152.67.137.138,443,true,FRA,Europe,Frankfurt,254 ms,6796 kB/s
+141.147.57.71,443,true,FRA,Europe,Frankfurt,195 ms,6482 kB/s
+143.47.233.102,443,true,FRA,Europe,Frankfurt,252 ms,5807 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,90 ms,4514 kB/s
+152.70.49.115,443,true,AMS,Europe,Amsterdam,189 ms,3675 kB/s
+141.144.203.137,443,true,FRA,Europe,Frankfurt,237 ms,3074 kB/s
+141.147.159.250,443,true,KIX,Asia Pacific,Osaka,308 ms,2437 kB/s
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,226 ms,1 kB/s
+152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,216 ms,0 kB/s
+150.230.34.116,443,true,SJC,North America,San Jose,198 ms,0 kB/s
+141.144.240.218,443,true,CDG,Europe,Paris,279 ms,0 kB/s
+158.101.148.105,443,true,NRT,Asia Pacific,Tokyo,170 ms,0 kB/s
+141.144.207.205,443,true,FRA,Europe,Frankfurt,252 ms,0 kB/s
