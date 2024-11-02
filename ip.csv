@@ -1,22 +1,25 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-150.230.23.194,443,true,FRA,Europe,Frankfurt,197 ms,9523 kB/s
-146.56.159.101,443,true,SIN,Asia Pacific,Singapore,133 ms,9113 kB/s
-150.230.122.76,443,true,LHR,Europe,London,222 ms,6650 kB/s
-144.21.60.14,443,true,CDG,Europe,Paris,196 ms,6252 kB/s
-143.47.247.111,443,true,FRA,Europe,Frankfurt,205 ms,5899 kB/s
-152.67.130.63,443,true,FRA,Europe,Frankfurt,204 ms,5173 kB/s
-152.70.51.214,443,true,FRA,Europe,Frankfurt,200 ms,5109 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,108 ms,4991 kB/s
-152.70.235.207,443,true,ICN,Asia Pacific,Seoul,73 ms,3946 kB/s
-152.70.49.115,443,true,AMS,Europe,Amsterdam,195 ms,3797 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,248 ms,2253 kB/s
-152.70.61.88,443,true,FRA,Europe,Frankfurt,273 ms,2114 kB/s
-141.147.39.43,443,true,FRA,Europe,Frankfurt,216 ms,1771 kB/s
-141.144.240.218,443,true,FRA,Europe,Frankfurt,261 ms,1761 kB/s
-158.101.204.135,443,true,FRA,Europe,Frankfurt,267 ms,1327 kB/s
-150.230.112.159,443,true,FRA,Europe,Frankfurt,267 ms,1300 kB/s
-141.147.68.193,443,true,FRA,Europe,Frankfurt,264 ms,1145 kB/s
-152.67.136.218,443,true,FRA,Europe,Frankfurt,270 ms,1083 kB/s
-141.147.112.61,443,true,FRA,Europe,Frankfurt,236 ms,1062 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,227 ms,0 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,192 ms,0 kB/s
+146.56.159.101,443,true,SIN,Asia Pacific,Singapore,125 ms,11206 kB/s
+152.69.162.101,443,true,SYD,Oceania,Sydney,178 ms,9062 kB/s
+152.70.51.214,443,true,FRA,Europe,Frankfurt,193 ms,6730 kB/s
+150.230.34.116,443,true,SJC,North America,San Jose,198 ms,6185 kB/s
+141.144.192.209,443,true,CDG,Europe,Paris,197 ms,6154 kB/s
+152.67.130.63,443,true,FRA,Europe,Frankfurt,202 ms,6009 kB/s
+150.230.23.194,443,true,FRA,Europe,Frankfurt,194 ms,5824 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,79 ms,5791 kB/s
+143.47.247.111,443,true,FRA,Europe,Frankfurt,211 ms,5754 kB/s
+141.147.39.43,443,true,FRA,Europe,Frankfurt,270 ms,4342 kB/s
+144.21.60.14,443,true,FRA,Europe,Frankfurt,207 ms,4310 kB/s
+150.230.112.159,443,true,FRA,Europe,Frankfurt,282 ms,4301 kB/s
+141.147.39.170,443,true,FRA,Europe,Frankfurt,242 ms,4090 kB/s
+141.147.112.61,443,true,FRA,Europe,Frankfurt,223 ms,4007 kB/s
+158.101.204.135,443,true,FRA,Europe,Frankfurt,223 ms,3691 kB/s
+152.70.61.88,443,true,FRA,Europe,Frankfurt,289 ms,3575 kB/s
+152.70.49.115,443,true,AMS,Europe,Amsterdam,184 ms,3508 kB/s
+152.67.136.218,443,true,CDG,Europe,Paris,243 ms,3169 kB/s
+141.147.68.193,443,true,FRA,Europe,Frankfurt,253 ms,3067 kB/s
+140.238.158.238,443,true,YYZ,North America,Toronto,259 ms,2672 kB/s
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,83 ms,1 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,191 ms,0 kB/s
+152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,210 ms,0 kB/s
+158.101.15.48,443,true,LAX,North America,Los Angeles,217 ms,0 kB/s
