@@ -1,25 +1,23 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-158.101.15.48,443,true,LAX,North America,Los Angeles,220 ms,9392 kB/s
-141.144.192.209,443,true,FRA,Europe,Frankfurt,201 ms,9091 kB/s
-152.67.130.63,443,true,FRA,Europe,Frankfurt,206 ms,6137 kB/s
-152.70.49.115,443,true,AMS,Europe,Amsterdam,205 ms,4471 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,249 ms,3985 kB/s
-152.70.166.137,443,true,FRA,Europe,Frankfurt,270 ms,1828 kB/s
-143.47.250.25,443,true,FRA,Europe,Frankfurt,280 ms,1630 kB/s
-146.56.159.101,443,true,SIN,Asia Pacific,Singapore,180 ms,1527 kB/s
-158.101.215.128,443,true,FRA,Europe,Frankfurt,269 ms,1392 kB/s
-152.70.54.23,443,true,FRA,Europe,Frankfurt,268 ms,1271 kB/s
-141.147.74.78,443,true,FRA,Europe,Frankfurt,255 ms,1187 kB/s
-144.21.59.205,443,true,FRA,Europe,Frankfurt,283 ms,1136 kB/s
-141.147.65.233,443,true,FRA,Europe,Frankfurt,285 ms,914 kB/s
-141.147.39.170,443,true,FRA,Europe,Frankfurt,268 ms,906 kB/s
-152.70.61.88,443,true,FRA,Europe,Frankfurt,274 ms,793 kB/s
-150.230.112.159,443,true,FRA,Europe,Frankfurt,255 ms,448 kB/s
-158.101.126.221,443,true,IAD,North America,Ashburn,252 ms,3 kB/s
-150.136.216.115,443,true,IAD,North America,Ashburn,268 ms,1 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,175 ms,0 kB/s
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,209 ms,0 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,339 ms,0 kB/s
-143.47.238.99,443,true,FRA,Europe,Frankfurt,276 ms,0 kB/s
-150.230.122.76,443,true,LHR,Europe,London,185 ms,0 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,129 ms,0 kB/s
+141.144.192.209,443,true,FRA,Europe,Frankfurt,196 ms,8646 kB/s
+140.238.158.238,443,true,YYZ,North America,Toronto,249 ms,3631 kB/s
+152.70.49.115,443,true,AMS,Europe,Amsterdam,203 ms,3499 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,142 ms,2109 kB/s
+141.147.3.232,443,true,FRA,Europe,Frankfurt,266 ms,1543 kB/s
+158.101.204.135,443,true,FRA,Europe,Frankfurt,265 ms,1199 kB/s
+158.101.215.128,443,true,FRA,Europe,Frankfurt,266 ms,1186 kB/s
+141.147.74.78,443,true,FRA,Europe,Frankfurt,279 ms,873 kB/s
+152.70.166.137,443,true,FRA,Europe,Frankfurt,264 ms,747 kB/s
+141.147.65.233,443,true,FRA,Europe,Frankfurt,278 ms,520 kB/s
+146.56.159.101,443,true,SIN,Asia Pacific,Singapore,179 ms,460 kB/s
+150.230.112.159,443,true,FRA,Europe,Frankfurt,280 ms,406 kB/s
+144.21.59.205,443,true,FRA,Europe,Frankfurt,277 ms,296 kB/s
+152.70.54.23,443,true,FRA,Europe,Frankfurt,260 ms,223 kB/s
+143.47.250.25,443,true,FRA,Europe,Frankfurt,284 ms,169 kB/s
+158.101.126.221,443,true,IAD,North America,Ashburn,283 ms,3 kB/s
+150.136.216.115,443,true,IAD,North America,Ashburn,281 ms,2 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,233 ms,0 kB/s
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,256 ms,0 kB/s
+143.47.238.99,443,true,FRA,Europe,Frankfurt,297 ms,0 kB/s
+158.101.148.105,443,true,NRT,Asia Pacific,Tokyo,213 ms,0 kB/s
+158.101.15.48,443,true,LAX,North America,Los Angeles,234 ms,0 kB/s
