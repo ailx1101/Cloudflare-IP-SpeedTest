@@ -1,24 +1,20 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-158.101.214.162,443,true,FRA,Europe,Frankfurt,199 ms,7561 kB/s
-150.230.34.116,443,true,SJC,North America,San Jose,201 ms,7521 kB/s
-141.144.196.6,443,true,CDG,Europe,Paris,193 ms,7429 kB/s
-152.67.206.64,443,true,SIN,Asia Pacific,Singapore,126 ms,6051 kB/s
-152.70.49.115,443,true,AMS,Europe,Amsterdam,172 ms,4121 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,126 ms,4098 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,255 ms,3223 kB/s
-158.101.215.128,443,true,FRA,Europe,Frankfurt,217 ms,2443 kB/s
-141.147.84.190,443,true,FRA,Europe,Frankfurt,284 ms,2082 kB/s
-141.144.224.105,443,true,FRA,Europe,Frankfurt,269 ms,1391 kB/s
-152.70.166.137,443,true,FRA,Europe,Frankfurt,272 ms,1172 kB/s
-141.144.251.146,443,true,FRA,Europe,Frankfurt,267 ms,1050 kB/s
-152.70.53.206,443,true,FRA,Europe,Frankfurt,266 ms,1040 kB/s
-141.144.255.230,443,true,FRA,Europe,Frankfurt,258 ms,1010 kB/s
-152.70.54.23,443,true,FRA,Europe,Frankfurt,265 ms,895 kB/s
-152.69.162.101,443,true,SYD,Oceania,Sydney,212 ms,858 kB/s
-150.136.216.115,443,true,IAD,North America,Ashburn,265 ms,2 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,180 ms,0 kB/s
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,211 ms,0 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,166 ms,0 kB/s
-158.101.148.105,443,true,NRT,Asia Pacific,Tokyo,215 ms,0 kB/s
-141.147.159.250,443,true,KIX,Asia Pacific,Osaka,310 ms,0 kB/s
-141.147.3.232,443,true,CDG,Europe,Paris,279 ms,0 kB/s
+141.144.196.6,443,true,FRA,Europe,Frankfurt,207 ms,9516 kB/s
+158.101.214.162,443,true,FRA,Europe,Frankfurt,203 ms,8524 kB/s
+152.69.162.101,443,true,SYD,Oceania,Sydney,227 ms,6088 kB/s
+140.238.158.238,443,true,YYZ,North America,Toronto,257 ms,3262 kB/s
+152.70.49.115,443,true,AMS,Europe,Amsterdam,237 ms,2900 kB/s
+141.144.251.146,443,true,FRA,Europe,Frankfurt,249 ms,2262 kB/s
+152.67.206.64,443,true,SIN,Asia Pacific,Singapore,173 ms,1745 kB/s
+141.144.255.230,443,true,FRA,Europe,Frankfurt,260 ms,1708 kB/s
+141.144.224.105,443,true,FRA,Europe,Frankfurt,267 ms,1471 kB/s
+141.147.84.190,443,true,FRA,Europe,Frankfurt,279 ms,1235 kB/s
+141.147.3.232,443,true,CDG,Europe,Paris,264 ms,1049 kB/s
+152.70.53.206,443,true,FRA,Europe,Frankfurt,277 ms,957 kB/s
+158.178.159.135,443,true,FRA,Europe,Frankfurt,259 ms,931 kB/s
+141.144.194.80,443,true,FRA,Europe,Frankfurt,270 ms,789 kB/s
+158.101.126.221,443,true,IAD,North America,Ashburn,247 ms,3 kB/s
+150.136.216.115,443,true,IAD,North America,Ashburn,276 ms,3 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,188 ms,0 kB/s
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,180 ms,0 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,123 ms,0 kB/s
