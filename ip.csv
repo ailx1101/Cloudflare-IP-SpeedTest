@@ -1,20 +1,21 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-141.147.73.148,443,true,LHR,Europe,London,214 ms,9995 kB/s
-150.230.34.116,443,true,SJC,North America,San Jose,193 ms,9664 kB/s
-141.147.92.143,443,true,LHR,Europe,London,214 ms,8375 kB/s
-158.101.213.149,443,true,FRA,Europe,Frankfurt,204 ms,6397 kB/s
-152.70.49.115,443,true,AMS,Europe,Amsterdam,201 ms,4143 kB/s
-152.67.136.218,443,true,FRA,Europe,Frankfurt,274 ms,2294 kB/s
-152.67.150.92,443,true,CDG,Europe,Paris,296 ms,2189 kB/s
-152.69.227.195,443,true,SIN,Asia Pacific,Singapore,177 ms,515 kB/s
-152.69.162.101,443,true,SYD,Oceania,Sydney,250 ms,403 kB/s
-152.67.215.168,443,true,SIN,Asia Pacific,Singapore,191 ms,368 kB/s
-158.101.126.221,443,true,IAD,North America,Ashburn,268 ms,3 kB/s
-150.136.216.115,443,true,IAD,North America,Ashburn,251 ms,3 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,294 ms,0 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,195 ms,0 kB/s
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,217 ms,0 kB/s
-150.230.122.76,443,true,LHR,Europe,London,184 ms,0 kB/s
-141.147.114.75,443,true,FRA,Europe,Frankfurt,280 ms,0 kB/s
-141.147.117.251,443,true,FRA,Europe,Frankfurt,375 ms,0 kB/s
-152.70.59.27,443,true,FRA,Europe,Frankfurt,282 ms,0 kB/s
+150.230.34.116,443,true,SJC,North America,San Jose,186 ms,9097 kB/s
+152.70.166.245,443,true,FRA,Europe,Frankfurt,196 ms,8819 kB/s
+141.147.92.143,443,true,LHR,Europe,London,209 ms,6796 kB/s
+158.101.213.149,443,true,FRA,Europe,Frankfurt,193 ms,6108 kB/s
+152.69.162.101,443,true,SYD,Oceania,Sydney,279 ms,3997 kB/s
+152.70.49.115,443,true,AMS,Europe,Amsterdam,172 ms,3670 kB/s
+152.67.136.218,443,true,FRA,Europe,Frankfurt,244 ms,2656 kB/s
+152.67.150.92,443,true,CDG,Europe,Paris,266 ms,2597 kB/s
+152.69.227.195,443,true,SIN,Asia Pacific,Singapore,174 ms,2329 kB/s
+152.67.200.227,443,true,SIN,Asia Pacific,Singapore,134 ms,2052 kB/s
+144.24.68.120,443,true,SIN,Asia Pacific,Singapore,125 ms,1052 kB/s
+155.248.173.68,443,true,SIN,Asia Pacific,Singapore,233 ms,796 kB/s
+140.245.80.86,443,true,SIN,Asia Pacific,Singapore,238 ms,150 kB/s
+158.101.126.221,443,true,IAD,North America,Ashburn,253 ms,3 kB/s
+150.136.216.115,443,true,IAD,North America,Ashburn,265 ms,3 kB/s
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,151 ms,0 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,193 ms,0 kB/s
+152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,218 ms,0 kB/s
+141.144.203.148,443,true,FRA,Europe,Frankfurt,262 ms,0 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,141 ms,0 kB/s
