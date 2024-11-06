@@ -1,16 +1,20 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-152.67.215.168,443,true,SIN,Asia Pacific,Singapore,126 ms,9807 kB/s
-150.230.34.116,443,true,SJC,North America,San Jose,188 ms,7724 kB/s
-152.69.162.101,443,true,SYD,Oceania,Sydney,177 ms,7008 kB/s
-141.144.227.218,443,true,FRA,Europe,Frankfurt,158 ms,5974 kB/s
-141.147.92.143,443,true,LHR,Europe,London,180 ms,5839 kB/s
-143.47.247.111,443,true,CDG,Europe,Paris,182 ms,4496 kB/s
-140.245.80.86,443,true,SIN,Asia Pacific,Singapore,243 ms,4468 kB/s
-152.70.49.115,443,true,AMS,Europe,Amsterdam,244 ms,3501 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,80 ms,3495 kB/s
-152.67.150.92,443,true,FRA,Europe,Frankfurt,254 ms,3445 kB/s
-158.101.126.221,443,true,IAD,North America,Ashburn,230 ms,3 kB/s
-150.136.216.115,443,true,IAD,North America,Ashburn,248 ms,3 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,82 ms,1 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,185 ms,0 kB/s
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,269 ms,0 kB/s
+152.69.162.101,443,true,SYD,Oceania,Sydney,176 ms,10113 kB/s
+152.67.215.168,443,true,SIN,Asia Pacific,Singapore,151 ms,7989 kB/s
+150.230.34.116,443,true,SJC,North America,San Jose,185 ms,7150 kB/s
+141.147.73.148,443,true,LHR,Europe,London,181 ms,7119 kB/s
+141.147.92.143,443,true,LHR,Europe,London,186 ms,7024 kB/s
+146.56.101.141,443,true,ICN,Asia Pacific,Seoul,81 ms,4955 kB/s
+152.67.150.92,443,true,FRA,Europe,Frankfurt,243 ms,4787 kB/s
+152.70.49.115,443,true,AMS,Europe,Amsterdam,217 ms,4011 kB/s
+141.144.227.218,443,true,FRA,Europe,Frankfurt,204 ms,3848 kB/s
+143.47.247.111,443,true,FRA,Europe,Frankfurt,276 ms,3612 kB/s
+140.245.80.86,443,true,SIN,Asia Pacific,Singapore,254 ms,3542 kB/s
+155.248.180.68,443,true,SIN,Asia Pacific,Singapore,255 ms,3362 kB/s
+158.101.126.221,443,true,IAD,North America,Ashburn,232 ms,3 kB/s
+150.136.216.115,443,true,IAD,North America,Ashburn,272 ms,3 kB/s
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,231 ms,1 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,187 ms,0 kB/s
+140.238.158.238,443,true,YYZ,North America,Toronto,253 ms,0 kB/s
+152.67.200.227,443,true,SIN,Asia Pacific,Singapore,117 ms,0 kB/s
+152.70.249.67,443,true,ICN,Asia Pacific,Seoul,64 ms,0 kB/s
