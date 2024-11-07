@@ -1,22 +1,23 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-152.70.249.67,443,true,ICN,Asia Pacific,Seoul,75 ms,15964 kB/s
-150.230.34.116,443,true,SJC,North America,San Jose,185 ms,9538 kB/s
-141.144.240.12,443,true,FRA,Europe,Frankfurt,231 ms,4038 kB/s
-152.70.49.115,443,true,AMS,Europe,Amsterdam,199 ms,3873 kB/s
-141.144.227.218,443,true,FRA,Europe,Frankfurt,269 ms,3460 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,267 ms,3434 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,125 ms,3159 kB/s
-140.238.94.212,443,true,FRA,Europe,Frankfurt,210 ms,3008 kB/s
-143.47.247.111,443,true,CDG,Europe,Paris,234 ms,2629 kB/s
-152.69.162.101,443,true,SYD,Oceania,Sydney,283 ms,2246 kB/s
-143.47.241.220,443,true,FRA,Europe,Frankfurt,256 ms,2180 kB/s
-152.67.150.92,443,true,CDG,Europe,Paris,289 ms,1950 kB/s
-155.248.180.68,443,true,SIN,Asia Pacific,Singapore,309 ms,426 kB/s
-152.70.166.245,443,true,FRA,Europe,Frankfurt,190 ms,3 kB/s
-158.101.126.221,443,true,IAD,North America,Ashburn,244 ms,3 kB/s
-150.136.216.115,443,true,IAD,North America,Ashburn,277 ms,3 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,193 ms,0 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,122 ms,0 kB/s
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,218 ms,0 kB/s
-141.144.203.148,443,true,FRA,Europe,Frankfurt,265 ms,0 kB/s
-144.21.43.219,443,true,FRA,Europe,Frankfurt,199 ms,0 kB/s
+150.230.34.116,443,true,SJC,North America,San Jose,185 ms,9481 kB/s
+141.147.92.143,443,true,LHR,Europe,London,206 ms,8663 kB/s
+152.69.162.101,443,true,SYD,Oceania,Sydney,257 ms,5238 kB/s
+152.70.49.115,443,true,AMS,Europe,Amsterdam,182 ms,4010 kB/s
+141.144.240.12,443,true,FRA,Europe,Frankfurt,259 ms,1520 kB/s
+152.70.249.67,443,true,ICN,Asia Pacific,Seoul,70 ms,1243 kB/s
+152.67.150.92,443,true,FRA,Europe,Frankfurt,239 ms,1087 kB/s
+141.144.227.218,443,true,FRA,Europe,Frankfurt,229 ms,1007 kB/s
+143.47.247.111,443,true,FRA,Europe,Frankfurt,186 ms,981 kB/s
+143.47.233.102,443,true,FRA,Europe,Frankfurt,245 ms,903 kB/s
+140.238.158.238,443,true,YYZ,North America,Toronto,264 ms,833 kB/s
+143.47.241.220,443,true,IAD,North America,Ashburn,297 ms,680 kB/s
+140.238.94.212,443,true,IAD,North America,Ashburn,230 ms,514 kB/s
+152.70.166.245,443,true,FRA,Europe,Frankfurt,192 ms,421 kB/s
+155.248.180.68,443,true,SIN,Asia Pacific,Singapore,305 ms,81 kB/s
+152.67.203.34,443,true,ICN,Asia Pacific,Seoul,128 ms,15 kB/s
+158.101.126.221,443,true,IAD,North America,Ashburn,258 ms,3 kB/s
+150.136.216.115,443,true,IAD,North America,Ashburn,265 ms,2 kB/s
+152.70.166.114,443,true,FRA,Europe,Frankfurt,185 ms,0 kB/s
+152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,219 ms,0 kB/s
+152.69.219.32,443,true,SIN,Asia Pacific,Singapore,173 ms,0 kB/s
+144.21.43.219,443,true,FRA,Europe,Frankfurt,205 ms,0 kB/s
