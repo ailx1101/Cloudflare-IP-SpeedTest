@@ -1,24 +1,5 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-141.147.92.143,443,true,LHR,Europe,London,208 ms,9582 kB/s
-150.230.34.116,443,true,SJC,North America,San Jose,183 ms,9404 kB/s
-158.101.208.18,443,true,FRA,Europe,Frankfurt,193 ms,8893 kB/s
-152.67.131.75,443,true,FRA,Europe,Frankfurt,201 ms,8719 kB/s
-152.70.61.105,443,true,IAD,North America,Ashburn,242 ms,3619 kB/s
-152.67.134.216,443,true,CDG,Europe,Paris,264 ms,3600 kB/s
-143.47.234.255,443,true,FRA,Europe,Frankfurt,304 ms,3544 kB/s
-141.147.104.209,443,true,FRA,Europe,Frankfurt,186 ms,3191 kB/s
-158.101.216.252,443,true,FRA,Europe,Frankfurt,277 ms,3131 kB/s
-150.230.115.181,443,true,FRA,Europe,Frankfurt,243 ms,3107 kB/s
-146.56.101.141,443,true,ICN,Asia Pacific,Seoul,123 ms,2772 kB/s
-141.144.203.177,443,true,FRA,Europe,Frankfurt,260 ms,2771 kB/s
-144.21.35.173,443,true,FRA,Europe,Frankfurt,246 ms,1921 kB/s
-152.67.203.34,443,true,ICN,Asia Pacific,Seoul,129 ms,552 kB/s
-152.70.49.115,443,true,AMS,Europe,Amsterdam,216 ms,389 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,247 ms,378 kB/s
-152.69.162.101,443,true,SYD,Oceania,Sydney,258 ms,178 kB/s
-158.101.192.242,443,true,CDG,Europe,Paris,256 ms,99 kB/s
-158.101.126.221,443,true,IAD,North America,Ashburn,255 ms,3 kB/s
-152.70.166.114,443,true,FRA,Europe,Frankfurt,191 ms,0 kB/s
-152.67.190.105,443,true,HYD,Asia Pacific,Hyderabad,208 ms,0 kB/s
-152.69.219.32,443,true,SIN,Asia Pacific,Singapore,251 ms,0 kB/s
-152.70.249.67,443,true,ICN,Asia Pacific,Seoul,70 ms,0 kB/s
+14.56.200.10,50000,true,ICN,Asia Pacific,Seoul,106 ms,2448 kB/s
+14.56.254.181,50000,true,ICN,Asia Pacific,Seoul,99 ms,2398 kB/s
+14.56.64.67,50000,true,ICN,Asia Pacific,Seoul,106 ms,2357 kB/s
+14.56.74.151,50000,true,ICN,Asia Pacific,Seoul,102 ms,2175 kB/s
